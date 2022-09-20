@@ -9,9 +9,9 @@
     width: 337px; 
     height: 325px; 
     border-radius: 50%;
-    position: absolute; 
     z-index: 4;
     left: 90px; 
     right: 80px; 
     border: 7px white solid; 
 }
+
