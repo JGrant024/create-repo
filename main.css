@@ -15,3 +15,10 @@
     border: 7px white solid; 
 }
 
+.grid-container {
+    display: inline-grid;
+  }
+
+  ul{
+    list-style: none;
+  }
