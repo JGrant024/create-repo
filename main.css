@@ -5,14 +5,15 @@
 *{
     background-color: #0C0E12
 }
-.circle-img {
-    width: 337px; 
-    height: 325px; 
-    border-radius: 50%;
-    z-index: 4;
+.profile-pic {
+    width: 255px; 
+    height: 255px; 
+    border-radius: 70%;
+    display: inline-block;
+    /* z-index: 4;
     left: 90px; 
-    right: 80px; 
-    border: 7px white solid; 
+    /* right: 80px;  */
+    border: 7px white solid;  
 }
 
 .grid-container {
@@ -21,4 +22,12 @@
 
   ul{
     list-style: none;
+  } 
+
+  .name{
+    color: #BDC7D0;
+  }
+
+  .user-name{
+   color: #BDC7D0;
   }
